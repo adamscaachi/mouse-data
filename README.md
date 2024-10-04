@@ -19,12 +19,12 @@ A vector (x, y, t) is logged each frame, where x and y represent the mouse posit
 ## Data Visualisation
 
 The collected data is visualised through a series of plots: <br>
-1) X and Y positions of the mouse for 20 click events. Coloured circles are plotted over the mouse trajectory every 50 ms, and black outlined circles are plotted at the positions of mouse clicks.
+1) X and Y positions of the mouse for 20 click events. Coloured circles are plotted over the mouse trajectory every 50 ms, and black outlined circles are plotted between each event.
 2) The distance between the initial mouse position and an object compared with the time taken for that object to be clicked.
 3) A histogram showing the distribution of time taken for an object to be clicked.
 4) A histogram showing the distribution of distances between the initial mouse position and the instantiated object.
 5) The velocity at which the mouse moves during 10 click events. Vertical red dotted lines are plotted between each event.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8866c8ea-bd4a-4dc1-9031-67d9af5f7534" width="750" />
+  <img src="https://github.com/user-attachments/assets/8866c8ea-bd4a-4dc1-9031-67d9af5f7534" width="650" />
 </p>

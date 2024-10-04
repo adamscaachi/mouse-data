@@ -23,7 +23,7 @@ The collected data is visualised through a series of plots: <br>
 2) The distance between the initial mouse position and an object compared with the time taken for that object to be clicked.
 3) A histogram showing the distribution of time taken for an object to be clicked.
 4) A histogram showing the distribution of distances between the initial mouse position and the instantiated object.
-5) The velocity at which the mouse moves during 10 click events. Vertical red dotted lines are plotted between each event.
+5) The velocity at which the mouse moves during 10 click events. Vertical red dashed lines are plotted between each event.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/8866c8ea-bd4a-4dc1-9031-67d9af5f7534" width="650" />

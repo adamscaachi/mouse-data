@@ -1,7 +1,7 @@
 # Mouse Data
 
 Human mouse data could be used to:
-1) Further our understanding of human mouse movement dynamics, improving our ability to detect artificially generated mouse movement.
+1) Further our understanding of human mouse movement, improving our ability to detect artificially generated mouse movement.
 2) Train bots to artificially generate more realistic mouse movement, improving their ability to evade bot detection.
 
 Both of the above applications are interesting areas for further study and motivate the collection of human mouse data.
